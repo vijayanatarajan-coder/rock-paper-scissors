@@ -1,4 +1,3 @@
-Check if JavaScript is linked correctly:
 Write console.log("Hello World") in JavaScript.
 Check if “Hello World” is logged in the browser console once you open your webpage.
 It’s best practice to link to an external JavaScript file inside this script tag. Using an external JavaScript file keeps your HTML file clean and organized.
